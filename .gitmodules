@@ -1,0 +1,3 @@
+[submodule "poc_wipro_repo1"]
+	path = poc_wipro_repo1
+	url = https://github.com/MEHBUB-6001/poc_wipro_repo1.git
